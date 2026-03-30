@@ -64,8 +64,8 @@ I-am-Valentino-Gonzalez
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
 <p>
-	<a href="https://github.com/valentinoamador0206">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+	<a href="mailto:valentinoamador.0206@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
 </a>
 	<a href="https://www.linkedin.com/in/valentino-adamor-gonzalez-adames-7613943bb">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
