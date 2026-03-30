@@ -64,7 +64,7 @@ I-am-Valentino-Gonzalez
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
 <p>
-	<a href="mailto:valentinoamador.0206@gmail.com">
+	<a href="https://mail.google.com/mail/?view=cm&to=valentinoamador.0206@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
 </a>
 	<a href="https://www.linkedin.com/in/valentino-adamor-gonzalez-adames-7613943bb">
